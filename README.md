@@ -11,7 +11,7 @@ Install them via pip:
 pip install pandas numpy matplotlib openpyxl
 How to Run
 Clone the Repository:
-Use Git: git clone https://github.com/prosperochu/Grouped-data-with-pandas-and-matplotlib.git
+Use Git: git clone https://github.com/prosperochuko-sudo/Grouped-data-with-pandas-and-matplotlib-.git
 Or download the ZIP and extract it.
 Open the Notebook:
 Open data_grouping.ipynb in Google Colab (recommended link: https://colab.research.google.com/drive/14bwT_xp6XVVeVI-GfP0MfienimpmBYtk#scrollTo=Yc-DdLEXnrVJ).
@@ -26,5 +26,3 @@ Excel Output: The grouped data is exported to project_grouped_data.xlsx, includi
 Sample output (from the chart):
 North America: High revenue (~$8,000) and units (~400).
 Europe, Asia, South America: Varying metrics with age groups like 18-24 to 55+.
-[Insert screenshot or image of the Matplotlib chart here, e.g., upload 'revenue_units_chart.JPG' to your repo and add: �]
-[Insert screenshot or image of the Excel output here, e.g., upload 'excel_screenshot.png' to your repo and add: Google
