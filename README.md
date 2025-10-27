@@ -32,7 +32,7 @@ Groups data by Region with summed Revenue and Units Sold.
 Displays a bar chart with age group annotations.
 Exports to Excel with an embedded chart.
 
-![revenue units sold Chart](revenue_units_chart.JPG)
+![revenue units sold chart](revenue_units_chart.JPG)
 ## Example output for chart
 This chart compares total revenue and unit sold across regions providing a clear visual relationship between sales performance and   quantity 
 
