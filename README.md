@@ -19,7 +19,8 @@ This project analyzes sales data by grouping it by region using `pandas`, visual
 
 ## Demo
 
-![Revenue and Units Sold by Region](./revenue_units_chart.JPG)
+![Revenue and Units Sold by Region](https://github.com/user-attachments/assets/8ff1d0fb-3dcf-40f6-8306-f590ce8c0fdf)
+
 
 *Dual-axis bar chart showing Revenue (red) and Units Sold (blue) by region with age group annotations*
 
