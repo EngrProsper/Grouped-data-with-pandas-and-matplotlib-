@@ -33,7 +33,7 @@ Install the required dependencies:
 ## Usage
 
 -Clone the repository:
-git clone https://github.com/EngrProsper/Grouped-data-with-pandas-and-matplotlib.git
+git clone https://github.com/EngrProsper/Grouped-data-with-pandas-and-matplotlib_.git
 cd Grouped-data-with-pandas-and-matplotlib
 
 -Open the notebook:
