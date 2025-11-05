@@ -40,7 +40,7 @@ Install the required dependencies:
 
 ```
 
-##Usage
+## Usage
 
 -Clone the repository:
 git clone https://github.com/EngrProsper/Grouped-data-with-pandas-and-matplotlib.git
@@ -56,7 +56,7 @@ Grouped data
 Chart (revenue_units_chart.JPG)
 Excel file (project_grouped_data.xlsx)
 
-##Folder Structure
+## Folder Structure
 .
 ├── Data_grouping_with_pandas_and_visualization_with_matplotlib.ipynb
 ├── LICENSE
@@ -64,9 +64,9 @@ Excel file (project_grouped_data.xlsx)
 ├── project_grouped_data.xlsx
 └── revenue_units_chart.JPG
 
-##Results
+## Results
 
-###Sample Output
+### Sample Output
 
 The script groups sales data by Region and calculates total Revenue and Units Sold:
 Region
@@ -90,13 +90,13 @@ South America
 245
 18-24
 
-###Excel file created: 
+### Excel file created: 
 
 project_grouped_data.xlsx
 
-##Visualization
+## Visualization
 
-###The generated chart displays:
+### The generated chart displays:
 
 -Red bars: Revenue (USD) on the left y-axis
 
@@ -104,15 +104,15 @@ project_grouped_data.xlsx
 
 -Customer age group annotations above each region's bars
 
-##Contributing
+## Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
-##License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-##Author
+## Author
 
 Created by Prosper Ochuko as a weekly learning project for freelancing.
  
