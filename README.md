@@ -35,8 +35,10 @@ This project analyzes sales data by grouping it by region using `pandas`, visual
 
 Install the required dependencies:
 
-```bash
-pip install pandas numpy matplotlib openpyxl```
+```
+!pip install pandas numpy matplotlib openpyxl
+
+```
 
 ##Usage
 
