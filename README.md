@@ -12,11 +12,6 @@ This project analyzes sales data by grouping it by region using `pandas`, visual
 - Export grouped data and embedded chart to Excel
 - Professional chart formatting with legends and labels
 
-## Demo
-
-![Revenue and Units Sold by Region](https://github.com/user-attachments/assets/8ff1d0fb-3dcf-40f6-8306-f590ce8c0fdf)
-
-*Dual-axis bar chart showing Revenue (red) and Units Sold (blue) by region with age group annotations*
 
 ## Tech Stack
 
@@ -61,37 +56,25 @@ Excel file (project_grouped_data.xlsx)
 
 ## Results
 
-### Sample Output
+The script groups sales data by Region and calculates total Revenue and Units Sold
 
-The script groups sales data by Region and calculates total Revenue and Units Sold:
-Region
-Revenue (USD)
-Units Sold
-Customer Age Group
-Asia
-7600
-380
-35-44
-Europe
-3900
-195
-25-34
-North America
-8000
-400
-18-24,45-54
-South America
-4900
-245
-18-24
 
-### Excel file created: 
+### Sample excel file Output
 
 ![excel grouped table Screenshot](https://github.com/user-attachments/assets/bb40d21f-74ce-4f08-b241-fa0463877b92)
 
+### Excel file created at: 
 project_grouped_data.xlsx
 
 ## Visualization
+
+### Demo
+
+![Revenue and Units Sold by Region](https://github.com/user-attachments/assets/8ff1d0fb-3dcf-40f6-8306-f590ce8c0fdf)
+
+*Dual-axis bar chart showing Revenue (red) and Units Sold (blue) by region with age group annotations*
+
+
 
 ### The generated chart displays:
 
@@ -112,4 +95,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Author
 
 Created by Prosper Ochuko as a weekly learning project for freelancing.
+
 GitHub Profile · Open an Issue
