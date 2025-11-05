@@ -1,10 +1,5 @@
 # Grouped Data Analysis with Pandas and Matplotlib
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![Pandas](https://img.shields.io/badge/Pandas-Latest-green.svg)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Latest-orange.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
-
 ## Description
 
 This project analyzes sales data by grouping it by region using `pandas`, visualizes results with a dual-axis `matplotlib` chart (Revenue vs. Units Sold), and exports to an Excel file with `openpyxl`. It helps analyze sales data for better data-driven decision-making.
@@ -92,6 +87,8 @@ South America
 
 ### Excel file created: 
 
+![excel grouped table Screenshot](https://github.com/user-attachments/assets/bb40d21f-74ce-4f08-b241-fa0463877b92)
+
 project_grouped_data.xlsx
 
 ## Visualization
@@ -115,5 +112,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Author
 
 Created by Prosper Ochuko as a weekly learning project for freelancing.
-
- 
+GitHub Profile · Open an Issue
