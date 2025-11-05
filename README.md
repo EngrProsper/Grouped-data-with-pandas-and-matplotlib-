@@ -70,7 +70,8 @@ project_grouped_data.xlsx
 
 ### Demo
 
-![Revenue and Units Sold by Region](https://github.com/user-attachments/assets/8ff1d0fb-3dcf-40f6-8306-f590ce8c0fdf)
+![ Revenue & Units sold bar chart Screenshot](https://github.com/user-attachments/assets/9fad8160-9264-47ce-93b4-b14c22604387)
+
 
 *Dual-axis bar chart showing Revenue (red) and Units Sold (blue) by region with age group annotations*
 
